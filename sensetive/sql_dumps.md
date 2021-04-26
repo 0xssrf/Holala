@@ -23,3 +23,4 @@ sqldump.sql
 /sql.sql
 /temp.sql
 ```
+Referans: https://hackerone.com/reports/197789
